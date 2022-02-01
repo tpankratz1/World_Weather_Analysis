@@ -1,1 +1,4 @@
-# World_Weather_Analysis
+# World Weather Analysis
+
+## Summary
+The purpose for this work was to make some recommended changes to the PlanMyTrip app before it is released. One needed change was to add the weather description, such as "partly cloudy", to the weather data to be displayed for cities in different regions of the world. There was also a need for users to be able enter their weather preferences, including preferred minimum and maximum temperatures. This information is used to identify possible cities to travel to and hotels that are close by. Four cities were then chosen to create a travel itinerary map. Lastly, using the Google Maps Directions API, a travel route was created between the four cities, including a marker layer map. The final deliverables included: The retrieval of the weather data, the creation of a customer travel destinations map, and the creation of a travel itinerary map.
